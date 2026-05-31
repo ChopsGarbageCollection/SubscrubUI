@@ -402,7 +402,7 @@ Same core logic, different interface.
 
 ## 🎬 Screenshot
 
-![SubScrubUI Dark Theme](screenshot-placeholder.png)
+![SubScrubUI Dark Theme](sub-scrub-ui.png)
 
 *Dark theme GUI with real-time progress tracking and visual controls*
 
