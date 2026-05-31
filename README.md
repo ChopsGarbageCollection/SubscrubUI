@@ -23,6 +23,12 @@ Perfect for **Plex**, **Jellyfin**, **Emby**, or any media server!
 
 > 💡 **Looking for automation?** Check out [SubScrub](https://github.com/ChopsGarbageCollection/SubScrub) - the command-line version perfect for scheduled tasks and batch processing.
 
+## 🎬 Screenshot
+
+![SubScrubUI Dark Theme](sub-scrub-ui.png)
+
+*Dark theme GUI with real-time progress tracking and visual controls*
+
 ---
 
 ## 🎭 SubScrubUI vs SubScrub
