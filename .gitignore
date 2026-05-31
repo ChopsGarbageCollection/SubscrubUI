@@ -1,0 +1,19 @@
+# Compiled Executables
+*.exe
+
+# Windows
+desktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+
+# Temporary Files
+*.tmp
+*.log
+*.bak
+
+# Debug Files
+*_Debug.txt
+
+# Build Artifacts
+*.pdb
+*.obj
